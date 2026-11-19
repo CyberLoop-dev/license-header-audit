@@ -1,0 +1,9 @@
+[project]
+name = "license-header-audit"
+version = "1.0.0"
+description = "Find source files missing a configured SPDX license identifier header."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.unittest]
+start-directory = "tests"
